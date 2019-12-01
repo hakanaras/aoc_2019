@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/day_1_1
+day_1_1.so
+day_1_1.dylib
+day_1_1.dll
+day_1_1.a
+day_1_1.lib
+day_1_1-test-*
+*.exe
+*.o
+*.obj
+*.lst
