@@ -55,7 +55,7 @@ Distance distance(Body from, Body to) pure {
 	if (result.isNull)
 		return result;
 	else
-		return Distance(from.parent.distance(to) + 1);
+		return Distance(result + 1);
 }
 
 void main() {
